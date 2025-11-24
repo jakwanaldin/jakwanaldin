@@ -4,7 +4,6 @@
 - 💞️ I’m looking to collaborate on nothing right now
 - 📫 How to reach me facebook, linkedin, instagram 
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: I have a son at the age of 24 ;)
 
 <!---
 jakwanaldin/jakwanaldin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
